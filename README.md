@@ -1,5 +1,5 @@
 # VER APLICACIÓN DESPLEGADA.
-[Ir a la apliación de este repositorio](https://jserratos-dev.github.io/ngrx-effects/home)
+[Ir a la apliación de este repositorio](https://jserratos-dev.github.io/ngrx-effects)
 
 # ReduxHttpEffects
 
