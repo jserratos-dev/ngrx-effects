@@ -2,7 +2,7 @@
 
 Para ver la aplicación en vivo, haz clic en el siguiente enlace:
 
-<a href="https://jserratos-dev.github.io/ngrx-effects" target="_blank">Ir a la aplicación de este repositorio</a>
+[Ir a la aplicación de este repositorio](https://jserratos-dev.github.io/ngrx-effects)
 
 # ReduxHttpEffects
 
