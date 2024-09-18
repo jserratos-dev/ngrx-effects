@@ -1,5 +1,8 @@
-# VER APLICACIÓN DESPLEGADA.
-[Ir a la apliación de este repositorio](https://jserratos-dev.github.io/ngrx-effects)
+# Ver la Aplicación
+
+Para ver la aplicación en vivo, haz clic en el siguiente enlace:
+
+<a href="https://jserratos-dev.github.io/ngrx-effects" target="_blank">Ir a la aplicación de este repositorio</a>
 
 # ReduxHttpEffects
 
