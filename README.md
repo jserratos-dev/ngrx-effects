@@ -1,3 +1,6 @@
+# VER APLICACIÓN DESPLEGADA.
+[Ir a la apliación de este repositorio](https://jserratos-dev.github.io/ngrx-effects/home)
+
 # ReduxHttpEffects
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.9.
